@@ -4,6 +4,9 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 body {
+  background-image: url(res/img/tyndale-kjv.jpg);
+  background-repeat:no-repeat;
+  background-position: center center;
   margin: 0;
 }
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
@@ -75,5 +78,7 @@ header.sticky .menu-right .shopping-count-badge {
 }
 
 .content {
-  margin: auto 5%;
+  background-color: #eceaec;
+  background-color: rgba(236, 234, 236, 0.75);
+  margin: 50px 5% 0 5%;
 }
