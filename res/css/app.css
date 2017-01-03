@@ -1,5 +1,5 @@
 html {
-  font-family: 'traveling__typewriterregular','Lato', sans-serif;
+  font-family: 'Lato', sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
@@ -84,4 +84,8 @@ header.sticky .menu-right .shopping-count-badge {
   background-color: rgba(236, 234, 236, 0.9);
   margin: 50px 5% 0 5%;
   padding: 1em;
+}
+
+.typewritten {
+  font-family: 'traveling__typewriterregular','Lato', sans-serif;
 }
