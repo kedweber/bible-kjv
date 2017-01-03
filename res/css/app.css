@@ -10,6 +10,70 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   display: block;
 }
 
+header.sticky {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  display: block;
+  font-size: 1.5em;
+  font-family: 'Nunito', sans-serif;
+  background-color: rgb(60, 97, 69);
+  background-color: rgba(60, 97, 69, 0.93);
+  z-index: 2000;
+  width: 100%;
+  margin: 0 0;
+  height: 50px;
+  color: #eceaec;
+  color: rgba(236, 234, 236, 0.78);
+  text-align: center;
+  padding: 6px 0px 0 0;
+}
+header.sticky .menu-left {
+  position: absolute;
+  left: 20px;
+  top: 5px;
+  font-size: 1.5em;
+}
+/** user info, settings section **/
+header.sticky .menu-right {
+  position: absolute;
+  right: 20px;
+  top: 5px;
+  font-size: 1.5em;
+}
+header.sticky .menu-right a {
+  color: #eceaec;
+  color: rgba(236, 234, 236, 0.78);
+  text-decoration:none;
+}
+header.sticky .menu-right .logged-out a {
+  display: none;
+  color: rgb(60, 97, 69);
+  color: rgba(60, 97, 69, 0.93);
+  background-color: #eceaec;
+  background-color: rgba(236, 234, 236, 0.78);
+  text-decoration: none;
+  font-size: 0.65em;
+  border-radius: 5%;
+  padding: 0px 5px;
+}
+header.sticky .menu-right .settings-user-name {
+  font-size: 0.5em;
+}
+header.sticky .menu-right a:hover {
+  text-decoration:none;
+}
+header.sticky .menu-right .shopping-count-badge {
+  position: absolute;
+  right: 0.35em;
+  color: white;
+  font-size: 0.35em;
+  /* width: 0.5em; */
+  background-color: red;
+  padding: 0 0.5em;
+  border-radius: 50%;
+}
+
 .content {
   margin: auto 5%;
 }
