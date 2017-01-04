@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /bible-kjv/res/
+Disallow: /res/
+Disallow: res/
