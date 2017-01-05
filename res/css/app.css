@@ -20,6 +20,22 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
   display: block;
 }
 
+/** Page specific **/
+a {
+  text-decoration: none;
+  color: #2a4632;
+  text-shadow: 0px 1px black;
+}
+a:visited {
+  color: #3c6145;
+}
+a:before {
+  content: ' ';
+}
+a:after {
+  content: ' ';
+}
+
 header.sticky {
   position: fixed;
   top: 0px;
@@ -192,4 +208,19 @@ header.sticky .menu-right .shopping-count-badge {
 .btn-swipe:hover > span {
   -webkit-transform: translate3d(0, 100%, 0);
   transform: translate3d(0, 100%, 0);
+}
+
+.use-cases {
+  padding-left: 10px;
+}
+.use-cases > li {
+  list-style: square;
+  list-style-type: square;
+  list-style-position: inside;
+  margin-bottom: 1em;
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  -webkit-padding-start: 10px;
 }
