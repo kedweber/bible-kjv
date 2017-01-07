@@ -65,7 +65,7 @@ curriculum to spur the next generation of developers in the direction of Ionic, 
 
 | Version | Language | Size | Compressed |
 |---|---|---|---|
-| King James | English | 5932779 or 5.9 Mb | 1534415 or 1.5 Mb |
+| King James 1611 | English | 5932779 or 5.9 Mb | 1534415 or 1.5 Mb |
 | Luther 1545 | German | 6114176 or 6.1 Mb | 1630993 or 1.6 Mb |
 | Bahasa Sehari-hari | Indonesian | 6262069 or 6.3 Mb | 1620795 or 1.6 Mb |
 
