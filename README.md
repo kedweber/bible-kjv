@@ -58,11 +58,12 @@ Cook Sous Vide with Joule, a new Ionic app from ChefSteps
 
 ### Notes
 
-|---|---|---|---|
+
 | Version | Language | Size | Compressed |
 |---|---|---|---|
 | King James | English | 5932779 or 5.9 Mb | 1534415 or 1.5 Mb |
 | Luther 1545 | German | 6114176 or 6.1 Mb | 1630993 or 1.6 Mb |
+
 <!--
 ls -FaGl res/js/kjv-*.json | awk '{ total += $5 } END { print total }'
 -->
