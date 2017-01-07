@@ -35,20 +35,29 @@ facilitate cross-platform deployment.
 Many individuals are unaware of the growing (said in 2017) popularity of the technology incorporated in this project. 
 This section is for those individuals and anyone with a keen interest in real-world implementations.
 
-[Diesel](http://store.diesel.com/) used the designers at [MobileCaddy.net](mobilecaddy.net) to build a 
-[merchandising app](http://www.mobilecaddy.net/diesel-achieving-digital-business-transformation-mobilecaddy/) 
-to analyze the product and stores performances. They also incorporated the [Salesforce Mobile SDK](http://salesforce.com), 
-to reduce time for user authentication. Personal note, Ionic does include a built in identification within their 
-[Ionic Cloud Client](http://github.com/driftyco/ionic-cloud) component; originally named `ionic-platform-web-client`.
-
-[Smithsonian National Museum of African American History & Culture](https://nmaahc.si.edu/) hired the D.C. based designers at  
+ *  [Diesel](http://store.diesel.com/) used the designers at [MobileCaddy.net](mobilecaddy.net) to build a 
+ [merchandising app](http://www.mobilecaddy.net/diesel-achieving-digital-business-transformation-mobilecaddy/) to analyze 
+ the product and stores performances. They also incorporated the [Salesforce Mobile SDK](http://salesforce.com), 
+ to reduce time for user authentication. Personal note, Ionic does include a built in identification within their 
+ [Ionic Cloud Client](http://github.com/driftyco/ionic-cloud) component; originally named `ionic-platform-web-client`.
+ *  [Smithsonian National Museum of African American History & Culture](https://nmaahc.si.edu/) hired the D.C. based designers at  
 [Clearly Innovative](http://www.clearlyinnovative.com/nmaahc-mobile-app) to build their 
 [app](https://nmaahc.si.edu/connect/mobile/apps) to browse their museum in the IoT. Ionic 2 and Angular were used 
 to develop the browsing app and a Content Management System within a single codebase for both Mac iOS and Android.
- 
-At the beginning of 2017 [In3](http://www.in3dc.com/) will be opening Washington, D.C.'s first community space, in Shaw, 
+ *   At the beginning of 2017 [In3](http://www.in3dc.com/) will be opening Washington, D.C.'s first community space, in Shaw, 
 dedicated to inclusion, innovation and incubation. **Ionic studies** will be in [Luma Lab's](http://www.luma-lab.com/) 
 curriculum to spur the next generation of developers in the direction of Ionic, Angular and Cordova technologies.
+ *  WordPress related software-house [AppPresser](https://apppresser.com/) has begun to use Ionic 2 in order 
+ to turn WordPress and Ionic into a Dynamic Duo. With the final release of Ionic 2, as well as the REST API being included 
+ in WordPress 2.7's core, it’s getting even easier to integrate WordPress into mobile apps. Ionic's blog has a good example 
+ of using [WP-API to include Wordpress](http://blog.ionic.io/the-dynamic-duo-wordpress-and-ionic-2/) in your applications.
+ *  [Joule](https://www.chefsteps.com/joule) is an immersion circulator (see below) that allows you to use the sous vide 
+ cooking method, in which food is placed in airtight plastic bags, then heated in precisely controlled, low-temperature 
+ water. Because the food can never get hotter than the water, it’s almost impossible to under- or overcook it, 
+ guaranteeing some of the most amazing steak, fish or chicken you have ever had. Joule’s companion app is built with Ionic.
+ A thermal immersion circulator is an electrically powered device that circulates and heats a warm fluid kept at an 
+ accurate and stable temperature.
+ *  [Watch for more Use Cases on Ionic's blog](http://blog.ionic.io/). Certainly, to be continued...
  
 How AppPresser used Ionic 2 to turn WordPress and Ionic into a Dynamic Duo
  
