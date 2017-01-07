@@ -59,11 +59,6 @@ curriculum to spur the next generation of developers in the direction of Ionic, 
  accurate and stable temperature.
  *  [Watch for more Use Cases on Ionic's blog](http://blog.ionic.io/). Certainly, to be continued...
  
-How AppPresser used Ionic 2 to turn WordPress and Ionic into a Dynamic Duo
- 
-Cook Sous Vide with Joule, a new Ionic app from ChefSteps
-
-
 
 ### Notes
 
@@ -72,6 +67,7 @@ Cook Sous Vide with Joule, a new Ionic app from ChefSteps
 |---|---|---|---|
 | King James | English | 5932779 or 5.9 Mb | 1534415 or 1.5 Mb |
 | Luther 1545 | German | 6114176 or 6.1 Mb | 1630993 or 1.6 Mb |
+| Bahasa Sehari-hari | Indonesian | 6262069 or 6.3 Mb | 1620795 or 1.6 Mb |
 
 <!--
 ls -FaGl res/js/kjv-*.json | awk '{ total += $5 } END { print total }'
